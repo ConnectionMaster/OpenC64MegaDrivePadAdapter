@@ -14,7 +14,7 @@ Button B will work as the normal fire button, but this adapter also allows using
 While this all works out of the box on Amiga computers, this adapter also allows to customize the button mapping to a certain degree: for instance, replacing UP with C might make some games more comfortable to play. This might be useful on the Amiga as well, so the adapter also supports an Amiga mode.
 
 ### Configuration
-The board is based on the circuit that was originally published in [issue #5 of Commodore world](https://www.scribd.com/document/8945979/Commodore-World-Issue-05) back in 1994, with a few improvements that will allow an easier gameplay with certain titles.
+The board is based on the circuit that was originally published in [issue #5 of Commodore world](https://dn790007.ca.archive.org/0/items/commodore-world-05/Commodore_World_Issue_05.pdf) back in 1994, with a few improvements that will allow an easier gameplay with certain titles.
 
 First of all, be sure to move the C64/Amiga jumper to the proper position, before connecting the adapter.
 
